@@ -1,5 +1,4 @@
-# Windows-Photo-Viewer-Wrapper
-Windows Photo Viewer Wrapper
+# Windows Photo Viewer Wrapper
 
 An executeble for opening Windows Photo Viewer.
 
