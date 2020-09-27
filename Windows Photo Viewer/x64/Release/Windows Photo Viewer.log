@@ -1,3 +1,0 @@
-﻿  WindowsPhotoViewer.cpp
-MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
-C:\Users\Anton\Documents\Visual Studio Prjs\Windows Photo Viewer\x64\Release\Windows Photo Viewer.exe : fatal error LNK1120: 1 unresolved externals
